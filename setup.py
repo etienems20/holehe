@@ -7,7 +7,7 @@ setup(
     version="1.61",
     packages=find_packages(),
     author="megadose",
-    author_email="megadose@protonmail.com",
+    author_email="etienems20@yahoo.com.br",
     install_requires=["termcolor","bs4","httpx","trio","tqdm","colorama"],
     description="holehe allows you to check if the mail is used on different sites like twitter, instagram , snapchat and will retrieve information on sites with the forgotten password function.",
     include_package_data=True,
